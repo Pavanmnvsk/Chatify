@@ -1,13 +1,13 @@
 {
-  "name": "chatcord",
+  "name": "chatify",
   "version": "1.0.0",
-  "description": "Realtime chat app with rooms",
+  "description": "Realtime chat web application",
   "main": "server.js",
   "scripts": {
     "start": "node server",
     "dev": "nodemon server"
   },
-  "author": "Brad Traversy",
+  "author": "Pavan",
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
